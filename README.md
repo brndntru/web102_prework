@@ -36,7 +36,7 @@ GIF created with Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- difficulties filtering funded games, but discovered it was because one of the comments was wrong and I blindly followed it without understanding the functionality of the entire function
 
 ## License
 
