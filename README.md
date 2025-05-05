@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b444fb9454c94c6f9cb02cb11c6fc441?sid=79eb1a82-f978-4bf7-aa47-3aded9707698" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <img src='http://i.imgur.com/link/to/your/gif/file.gif(https://www.loom.com/share/b444fb9454c94c6f9cb02cb11c6fc441?sid=4f2c0e68-366f-4849-ace5-07102a45a762)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
